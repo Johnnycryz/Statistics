@@ -1,0 +1,50 @@
+STATISTICS
+
+Definition:
+Statistics is the study of how to collect, oranise, analyse and interpret numerical 
+information and data
+
+Individuals are people or objects included in a study while a variable is a 
+characteristics of the individual to be measured or observed
+
+Population is a group of people or object with a common theme
+
+Sample is a small portion of the population, while Census is collecting data from
+every individual in a population
+
+Population parameter is a measure that describes the entire population while a 
+sample statistic is a measure that describes only a sample of a population
+
+capital N = total population while small n is sample population
+
+Descriptive statistics involves method of organising and summarizing information 
+from samples and population.. It can be applied to both sample and population
+while inferrring statistics involves methodsof using information from a sample to 
+draw conclusion regarding the population..  Inferring statistics only work with 
+sample.
+
+Levels of Measurement
+Quantitative (numerical) and Qualitative data (characteristics).. 
+wherever level the variable falls, they can be
+Quantitative data can further be classified into Interval vs Ratio data (Read more)
+
+Qualitative data can be splitted to Nominal vs ordinal data
+Nominal applies to categories, labels or names, and cannot be ordered from smallest
+to largest while ordinal applies to data that can be arranged in order in categories
+but the difference in the categories cannot be measured, even though you can 
+arranged them
+
+
+SAMPLING
+Sampling frame is the list of individual from which sample is selected
+Undercoverage is omitting members of the population from the sampling frame
+
+Simulation is a numerical facsimile or representation of a real world phenomenon
+
+Types of Sampling
+Simple Random Sampling 
+Stratified Sampling 
+Systematic Sampling
+Cluster Sampling
+Convenience Sampling
+Multi-stage Sampling
